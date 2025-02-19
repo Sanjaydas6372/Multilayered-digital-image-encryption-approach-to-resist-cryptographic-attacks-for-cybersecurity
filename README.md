@@ -14,19 +14,19 @@ Efficient Performance: Optimized algorithms for fast encryption and decryption p
 
 Applications:
 
-Secure transmission of sensitive images over untrusted networks.
+*  Secure transmission of sensitive images over untrusted networks.
 
-Protection of digital assets in cybersecurity applications.
+*  Protection of digital assets in cybersecurity applications.
 
-Enhanced privacy in image storage and sharing platforms.
+*  Enhanced privacy in image storage and sharing platforms.
 
 Technologies Used:
 
-Python
+*  Python
 
-OpenCV (for image processing)
+*  OpenCV (for image processing)
 
-Cryptographic libraries (e.g., PyCryptodome)
+*  Cryptographic libraries (e.g., PyCryptodome)
 
 Getting Started:
 
